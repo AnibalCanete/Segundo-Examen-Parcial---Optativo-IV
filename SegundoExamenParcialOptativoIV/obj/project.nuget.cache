@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wa/6RWxb2yEmgSMULo0gt9lmDyMsVrMSMdjJLPPNb3mkkv6r941bjLT5wxM5BuGea15EoXF+4Ay49lui4v+m8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anibal\\OneDrive\\Escritorio\\Optativo IV\\SegundoExamenParcialOptativoIV\\SegundoExamenParcialOptativoIV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anibal\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
